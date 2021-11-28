@@ -1,5 +1,5 @@
 import React from 'react'
-import CheckProduct from './CheckProduct';
+import CheckProduct from './CheckoutProduct';
 import "./Payment.css"
 import { useStateValue } from './StateProvider';
 import { Link } from "react-router-dom";
